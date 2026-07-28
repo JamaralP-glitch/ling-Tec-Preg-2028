@@ -1,5 +1,5 @@
 # include<stdio.h>
-Int main (){
-  printf( "Hello Word ;\n");
+int main (){
+  printf( "Hello Word !\n");
 return 0;
 }
